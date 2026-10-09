@@ -85,11 +85,6 @@ it's recommended to track it in version control (see `:help vim.pack-lockfile`).
 
 #### Clone kickstart.nvim
 
-> [!NOTE]
-> If following the recommended step above (i.e., creating your own repo from
-> the template or fork), replace `dam9000` with `<your_github_username>`
-> in the commands below
-
 <details><summary> Linux and Mac </summary>
 
 ```sh
